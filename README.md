@@ -1,4 +1,4 @@
-# MEV-weekend-reading-list
+# ALL ABOUT MEV
  - **Estimated reading time 10hrs** (mev.wtf is a 8hr-long video)
     - ## Getting Started   
         - [MEV… wat do? by Phil Daian](https://pdaian.com/blog/mev-wat-do/)
