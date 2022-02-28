@@ -17,7 +17,8 @@
         - [Flashbots: Frontrunning the MEV Crisis by Alex Obadia](https://medium.com/flashbots/frontrunning-the-mev-crisis-40629a613752)  
         - [Return to the Dark Forest from rekt](https://rekt.news/return-to-the-dark-forest/)     
         - [Unity Is Strength](https://arxiv.org/pdf/2112.01472.pdf)
-        - [ClockWork Finance](https://arxiv.org/pdf/2109.04347.pdf)
+        - [ClockWork Finance](https://arxiv.org/pdf/2109.04347.pdf) 
+        - [MEV Research during Wormhole Incident](https://misaka.substack.com/p/mev-research-during-wormhole-incident?utm_source=url) 
 
     - ## Other Protocols
         - [Solana](https://utonium.medium.com/mev-in-solana-an-early-exploration-4d7421b1f49b)
