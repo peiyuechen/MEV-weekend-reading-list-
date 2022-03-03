@@ -4,7 +4,10 @@
         - [MEV… wat do? by Phil Daian](https://pdaian.com/blog/mev-wat-do/)
         - [MEV and me by Charlie Noyes](https://www.paradigm.xyz/2021/02/mev-and-me)    
         - [MEV 101 by 0xmebius](https://github.com/0xmebius/mev/blob/main/MEV101.pdf)  
-        - [Contract leaderboard and LP Pools tracking](https://eigenphi.io/)
+       
+
+    - ## Tools 
+       - [Contract leaderboard and LP Pools tracking](https://eigenphi.io/) 
 
  
     - ## Holistic   
