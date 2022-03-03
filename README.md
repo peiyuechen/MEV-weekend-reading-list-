@@ -3,11 +3,10 @@
     - ## Getting Started   
         - [MEV… wat do? by Phil Daian](https://pdaian.com/blog/mev-wat-do/)
         - [MEV and me by Charlie Noyes](https://www.paradigm.xyz/2021/02/mev-and-me)    
-        - [MEV 101 by 0xmebius](https://github.com/0xmebius/mev/blob/main/MEV101.pdf) 
+        - [MEV 101 by 0xmebius](https://github.com/0xmebius/mev/blob/main/MEV101.pdf)  
+        - [Contract leaderboard and LP Pools tracking](https://eigenphi.io/)
 
-  - ## Tooling   
-        - (https://eigenphi.io/)
-
+ 
     - ## Holistic   
         - [mev.wtf by Flashbots and Ethglobal](https://hackmd.io/ivUzk3piQEG8ALzCGbxlag)    
         - [The 0 to 1 Guide for MEV by Cal Blockchain](https://calblockchain.mirror.xyz/c56CHOu-Wow_50qPp2Wlg0rhUvdz1HLbGSUWlB_KX9o)    
