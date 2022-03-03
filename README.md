@@ -6,7 +6,7 @@
         - [MEV 101 by 0xmebius](https://github.com/0xmebius/mev/blob/main/MEV101.pdf) 
 
   - ## Tooling   
-        - [Contract Leaderboard and LP pool tracking](https://eigenphi.io/)
+        - (https://eigenphi.io/)
 
     - ## Holistic   
         - [mev.wtf by Flashbots and Ethglobal](https://hackmd.io/ivUzk3piQEG8ALzCGbxlag)    
