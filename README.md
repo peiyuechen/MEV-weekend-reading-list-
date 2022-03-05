@@ -25,7 +25,8 @@
         - [Unity Is Strength](https://arxiv.org/pdf/2112.01472.pdf)
         - [ClockWork Finance](https://arxiv.org/pdf/2109.04347.pdf) 
         - [MEV Research during Wormhole Incident](https://misaka.substack.com/p/mev-research-during-wormhole-incident?utm_source=url)  
-        - [The Hidden World of Ethereum Snipers](https://www.samchepal.com/the-hidden-world-of/)
+        - [The Hidden World of Ethereum Snipers](https://www.samchepal.com/the-hidden-world-of/) 
+        - [Thinking in Zero Knowledge](https://mirror.xyz/0x3FD6f213ae1B8a7B6bd8f14BE9BF316a5e5A5d28/VTGpmEYLKIslUPf66VQzHUneB0R7EhMpJJ_mGrMvTwY)
 
     - ## Other Protocols
         - [Solana](https://utonium.medium.com/mev-in-solana-an-early-exploration-4d7421b1f49b) 
